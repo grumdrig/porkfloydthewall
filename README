@@ -1,11 +1,11 @@
 porkfloydthewall
 ================
 
-Chunk duplicator for Minecraft. Builds a square wall around 0,0 and a
+Chunk duplicator for Minecraft. Builds a square wall around 0,0 at a
 radius you specify, based on a prototype chunk at X, Z. (These
 coordinates are chunk coordinates; chunks are 16m x 16m.)
 
-DO NOT USE this on a world you care about. Causes some idiosyncratic
+DO NOT USE THIS ON A WORLD YOU CARE ABOUT. Causes some idiosyncratic
 behavior. This is a work in progress.
 
 
